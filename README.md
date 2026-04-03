@@ -1,4 +1,4 @@
-PhanMem_QLTestCase_PST
+#PhanMem_QLTestCase_PST
 
 Viết TestCase, DefectList cho phần mềm quản lý test case
 
